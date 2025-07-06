@@ -1,0 +1,2 @@
+# EdunateFoundation_IBM_SkillsBuild_AIML_Internship_Project
+EdunateFoundation_IBM_SkillsBuild_AIML_Internship_Project where the project topic is Eployee salary prediction using ML Algorithms
